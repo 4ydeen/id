@@ -1,162 +1,409 @@
-ewogICJhZXRoZXJDb21tYW5kIjogImFldGhlciAtLWJpbmQgMTI3LjAuMC4xOjEwODE5IC0tcHJv
-dG9jb2wgbWFzcXVlIC0tc2NhbiBiYWxhbmNlZCAtLWlwIHY0IC0tbWFzcXVlLXNuaSB3d3cuY2xv
-dWRmbGFyZS5jb20gLS1oMiAtLXRscy1jaXBoZXJzIEFMTDohYVBTSzohRUNEU0ErU0hBMTohM0RF
-UyAtLXBlZXIgMTYyLjE1OS4xOTguMTU6NDQzIC0tcXVpY2stcmVjb25uZWN0IC0tdXBzdHJlYW0g
-c29ja3M1Oi8vMTI3LjAuMC4xOjEwODIyIiwKICAiZG5zIjogewogICAgImhvc3RzIjogewogICAg
-ICAiZ2Vvc2l0ZTpjYXRlZ29yeS1hZHMtYWxsIjogIjEyNy4wLjAuMSIsCiAgICAgICJkb21haW46
-Z29vZ2xlYXBpcy5jbiI6ICJnb29nbGVhcGlzLmNvbSIsCiAgICAgICJkbnMuYWxpZG5zLmNvbSI6
-IFsKICAgICAgICAiMjIzLjUuNS41IiwKICAgICAgICAiMjIzLjYuNi42IiwKICAgICAgICAiMjQw
-MDozMjAwOjoxIiwKICAgICAgICAiMjQwMDozMjAwOmJhYmE6OjEiCiAgICAgIF0sCiAgICAgICJk
-bnMuc3NlLmNpc2NvLmNvbSI6IFsKICAgICAgICAiMjA4LjY3LjIyMC4yMjAiLAogICAgICAgICIy
-MDguNjcuMjIyLjIyMiIsCiAgICAgICAgIjI2MjA6MTE5OjM1OjozNSIsCiAgICAgICAgIjI2MjA6
-MTE5OjUzOjo1MyIKICAgICAgXSwKICAgICAgImRucy51bWJyZWxsYS5jb20iOiBbCiAgICAgICAg
-IjIwOC42Ny4yMjAuMjIwIiwKICAgICAgICAiMjA4LjY3LjIyMi4yMjIiLAogICAgICAgICIyNjIw
-OjExOTozNTo6MzUiLAogICAgICAgICIyNjIwOjExOTo1Mzo6NTMiCiAgICAgIF0sCiAgICAgICJv
-bmUub25lLm9uZS5vbmUiOiBbCiAgICAgICAgIjEuMS4xLjEiLAogICAgICAgICIxLjAuMC4xIiwK
-ICAgICAgICAiMjYwNjo0NzAwOjQ3MDA6OjExMTEiLAogICAgICAgICIyNjA2OjQ3MDA6NDcwMDo6
-MTAwMSIKICAgICAgXSwKICAgICAgIjFkb3QxZG90MWRvdDEuY2xvdWRmbGFyZS1kbnMuY29tIjog
-WwogICAgICAgICIxLjEuMS4xIiwKICAgICAgICAiMS4wLjAuMSIsCiAgICAgICAgIjI2MDY6NDcw
-MDo0NzAwOjoxMTExIiwKICAgICAgICAiMjYwNjo0NzAwOjQ3MDA6OjEwMDEiCiAgICAgIF0sCiAg
-ICAgICJkbnMuY2xvdWRmbGFyZS5jb20iOiBbCiAgICAgICAgIjE2Mi4xNTkuNjEuOCIsCiAgICAg
-ICAgIjE3Mi42NC40MS44IiwKICAgICAgICAiMmEwNjo5OGMxOjUyOjo4IiwKICAgICAgICAiMjgw
-MzpmODAwOjUzOjo4IgogICAgICBdLAogICAgICAiY2xvdWRmbGFyZS1kbnMuY29tIjogWwogICAg
-ICAgICIxMDQuMTYuMjQ4LjI0OSIsCiAgICAgICAgIjEwNC4xNi4yNDkuMjQ5IiwKICAgICAgICAi
-MjYwNjo0NzAwOjo2ODEwOmY4ZjkiLAogICAgICAgICIyNjA2OjQ3MDA6OjY4MTA6ZjlmOSIKICAg
-ICAgXSwKICAgICAgImVuZ2FnZS5jbG91ZGZsYXJlY2xpZW50LmNvbSI6IFsKICAgICAgICAiMTYy
-LjE1OS4xOTIuMSIsCiAgICAgICAgIjI2MDY6NDcwMDpkMDo6YTI5ZjpjMDAxIgogICAgICBdLAog
-ICAgICAiZG9oLnB1YiI6IFsKICAgICAgICAiMS4xMi4xMi4xMiIsCiAgICAgICAgIjEyMC41My41
-My41MyIKICAgICAgXSwKICAgICAgImRvdC5wdWIiOiBbCiAgICAgICAgIjEuMTIuMTIuMTIiLAog
-ICAgICAgICIxMjAuNTMuNTMuNTMiCiAgICAgIF0sCiAgICAgICJkbnMuZ29vZ2xlIjogWwogICAg
-ICAgICI4LjguOC44IiwKICAgICAgICAiOC44LjQuNCIsCiAgICAgICAgIjIwMDE6NDg2MDo0ODYw
-Ojo4ODg4IiwKICAgICAgICAiMjAwMTo0ODYwOjQ4NjA6Ojg4NDQiCiAgICAgIF0sCiAgICAgICJk
-bnMucXVhZDkubmV0IjogWwogICAgICAgICI5LjkuOS45IiwKICAgICAgICAiMTQ5LjExMi4xMTIu
-MTEyIiwKICAgICAgICAiMjYyMDpmZTo6ZmUiLAogICAgICAgICIyNjIwOmZlOjo5IgogICAgICBd
-LAogICAgICAiZG5zLnNiIjogWwogICAgICAgICI0NS4xMS40NS4xMSIsCiAgICAgICAgIjE4NS4y
-MjIuMjIyLjIyMiIsCiAgICAgICAgIjJhMDk6OiIsCiAgICAgICAgIjJhMTE6OiIKICAgICAgXSwK
-ICAgICAgImNvbW1vbi5kb3QuZG5zLnlhbmRleC5uZXQiOiBbCiAgICAgICAgIjc3Ljg4LjguOCIs
-CiAgICAgICAgIjc3Ljg4LjguMSIsCiAgICAgICAgIjJhMDI6NmI4OjpmZWVkOjBmZiIsCiAgICAg
-ICAgIjJhMDI6NmI4OjA6MTo6ZmVlZDowZmYiCiAgICAgIF0KICAgIH0sCiAgICAic2VydmVycyI6
-IFsKICAgICAgewogICAgICAgICJhZGRyZXNzIjogImZha2VkbnMiLAogICAgICAgICJkb21haW5z
-IjogWwogICAgICAgICAgImdlb3NpdGU6Y24iLAogICAgICAgICAgImdlb3NpdGU6cHJpdmF0ZSIs
-CiAgICAgICAgICAiZG9tYWluOmlyIiwKICAgICAgICAgICJnZW9zaXRlOmNhdGVnb3J5LWlyIgog
-ICAgICAgIF0KICAgICAgfSwKICAgICAgImh0dHBzOi8vOC44LjguOC9kbnMtcXVlcnkiLAogICAg
-ICB7CiAgICAgICAgImFkZHJlc3MiOiAibG9jYWxob3N0IiwKICAgICAgICAiZG9tYWlucyI6IFsK
-ICAgICAgICAgICJnZW9zaXRlOnByaXZhdGUiCiAgICAgICAgXSwKICAgICAgICAiZmluYWxRdWVy
-eSI6IHRydWUsCiAgICAgICAgInNraXBGYWxsYmFjayI6IHRydWUsCiAgICAgICAgInRhZyI6ICJk
-b21lc3RpYy1kbnNfMV8wIgogICAgICB9LAogICAgICB7CiAgICAgICAgImFkZHJlc3MiOiAibG9j
-YWxob3N0IiwKICAgICAgICAiZG9tYWlucyI6IFsKICAgICAgICAgICJkb21haW46aXIiLAogICAg
-ICAgICAgImdlb3NpdGU6Y2F0ZWdvcnktaXIiCiAgICAgICAgXSwKICAgICAgICAiZmluYWxRdWVy
-eSI6IHRydWUsCiAgICAgICAgInNraXBGYWxsYmFjayI6IHRydWUsCiAgICAgICAgInRhZyI6ICJk
-b21lc3RpYy1kbnNfMl8wIgogICAgICB9CiAgICBdLAogICAgInRhZyI6ICJkbnMtbW9kdWxlIgog
-IH0sCiAgImluYm91bmRzIjogWwogICAgewogICAgICAibGlzdGVuIjogIjEyNy4wLjAuMSIsCiAg
-ICAgICJwb3J0IjogMTA4MDgsCiAgICAgICJwcm90b2NvbCI6ICJzb2NrcyIsCiAgICAgICJzZXR0
-aW5ncyI6IHsKICAgICAgICAiYXV0aCI6ICJub2F1dGgiLAogICAgICAgICJ1ZHAiOiB0cnVlCiAg
-ICAgIH0sCiAgICAgICJzbmlmZmluZyI6IHsKICAgICAgICAiZGVzdE92ZXJyaWRlIjogWwogICAg
-ICAgICAgImh0dHAiLAogICAgICAgICAgInRscyIsCiAgICAgICAgICAicXVpYyIsCiAgICAgICAg
-ICAiZmFrZWRucyIKICAgICAgICBdLAogICAgICAgICJlbmFibGVkIjogdHJ1ZSwKICAgICAgICAi
-cm91dGVPbmx5IjogZmFsc2UKICAgICAgfSwKICAgICAgInRhZyI6ICJzb2NrcyIKICAgIH0sCiAg
-ICB7CiAgICAgICJsaXN0ZW4iOiAiMTI3LjAuMC4xIiwKICAgICAgInBvcnQiOiAxMDgyMiwKICAg
-ICAgInByb3RvY29sIjogIm1peGVkIiwKICAgICAgInNldHRpbmdzIjogewogICAgICAgICJ1ZHAi
-OiB0cnVlCiAgICAgIH0sCiAgICAgICJ0YWciOiAic2Vjb25kYXJ5LXNvY2tzIgogICAgfQogIF0s
-CiAgImxvZyI6IHsKICAgICJsb2dsZXZlbCI6ICJ3YXJuaW5nIgogIH0sCiAgIm9ic2VydmF0b3J5
-IjogewogICAgImVuYWJsZUNvbmN1cnJlbmN5IjogdHJ1ZSwKICAgICJwcm9iZUludGVydmFsIjog
-IjNtIiwKICAgICJwcm9iZVVybCI6ICJodHRwczovL3d3dy5nc3RhdGljLmNvbS9nZW5lcmF0ZV8y
-MDQiLAogICAgInN1YmplY3RTZWxlY3RvciI6IFsKICAgICAgInByb3h5LXByb3h5LSIKICAgIF0K
-ICB9LAogICJvdXRib3VuZHMiOiBbCiAgICB7CiAgICAgICJtdXgiOiB7CiAgICAgICAgImNvbmN1
-cnJlbmN5IjogLTEsCiAgICAgICAgImVuYWJsZWQiOiBmYWxzZQogICAgICB9LAogICAgICAicHJv
-dG9jb2wiOiAic29ja3MiLAogICAgICAic2V0dGluZ3MiOiB7CiAgICAgICAgImFkZHJlc3MiOiAi
-MTI3LjAuMC4xIiwKICAgICAgICAicG9ydCI6IDEwODE5CiAgICAgIH0sCiAgICAgICJzdHJlYW1T
-ZXR0aW5ncyI6IHsKICAgICAgICAibmV0d29yayI6ICJ0Y3AiCiAgICAgIH0sCiAgICAgICJ0YWci
-OiAicHJveHktcHJveHktMS1wLW1hc3EiLAogICAgICAidGFyZ2V0U3RyYXRlZ3kiOiAiRm9yY2VJ
-UHY0djYiCiAgICB9LAogICAgewogICAgICAibXV4IjogewogICAgICAgICJjb25jdXJyZW5jeSI6
-IC0xLAogICAgICAgICJlbmFibGVkIjogZmFsc2UKICAgICAgfSwKICAgICAgInByb3RvY29sIjog
-InZsZXNzIiwKICAgICAgInNldHRpbmdzIjogewogICAgICAgICJhZGRyZXNzIjogIjEwNC4yNC45
-MS4yOCIsCiAgICAgICAgImVuY3J5cHRpb24iOiAibm9uZSIsCiAgICAgICAgImZsb3ciOiAiIiwK
-ICAgICAgICAiaWQiOiAiYTRjN2EyNWItYjhhOC00MjkwLWFiODQtODhlMTI0ZTkxZDgxIiwKICAg
-ICAgICAicG9ydCI6IDQ0MwogICAgICB9LAogICAgICAic3RyZWFtU2V0dGluZ3MiOiB7CiAgICAg
-ICAgIm5ldHdvcmsiOiAid3MiLAogICAgICAgICJzZWN1cml0eSI6ICJ0bHMiLAogICAgICAgICJ0
-bHNTZXR0aW5ncyI6IHsKICAgICAgICAgICJhbGxvd0luc2VjdXJlIjogZmFsc2UsCiAgICAgICAg
-ICAiYWxwbiI6IFsKICAgICAgICAgICAgImh0dHAvMS4xIgogICAgICAgICAgXSwKICAgICAgICAg
-ICJlY2hDb25maWdMaXN0IjogImNsb3VkZmxhcmUtZWNoLmNvbSt1ZHA6Ly8xLjEuMS4xIiwKICAg
-ICAgICAgICJmaW5nZXJwcmludCI6ICJjaHJvbWUiLAogICAgICAgICAgInNlcnZlck5hbWUiOiAi
-Y2RuLm1vcnZhYy5pciIKICAgICAgICB9LAogICAgICAgICJ3c1NldHRpbmdzIjogewogICAgICAg
-ICAgImhvc3QiOiAiY2RuLm1vcnZhYy5pciIsCiAgICAgICAgICAicGF0aCI6ICIvP2VkPTI1NjAi
-CiAgICAgICAgfQogICAgICB9LAogICAgICAidGFnIjogInByb3h5LXByb3h5LTItcC1lY2giCiAg
-ICB9LAogICAgewogICAgICAibXV4IjogewogICAgICAgICJjb25jdXJyZW5jeSI6IC0xLAogICAg
-ICAgICJlbmFibGVkIjogZmFsc2UKICAgICAgfSwKICAgICAgInByb3RvY29sIjogInZsZXNzIiwK
-ICAgICAgInNldHRpbmdzIjogewogICAgICAgICJhZGRyZXNzIjogIjEwNC4yNC45MS4yOCIsCiAg
-ICAgICAgImVuY3J5cHRpb24iOiAibm9uZSIsCiAgICAgICAgImlkIjogImE0YzdhMjViLWI4YTgt
-NDI5MC1hYjg0LTg4ZTEyNGU5MWQ4MSIsCiAgICAgICAgInBvcnQiOiA0NDMKICAgICAgfSwKICAg
-ICAgInN0cmVhbVNldHRpbmdzIjogewogICAgICAgICJmaW5hbG1hc2siOiB7CiAgICAgICAgICAi
-dGNwIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgInR5cGUiOiAiZnJhZ21lbnQiLAog
-ICAgICAgICAgICAgICJzZXR0aW5ncyI6IHsKICAgICAgICAgICAgICAgICJwYWNrZXRzIjogInRs
-c2hlbGxvIiwKICAgICAgICAgICAgICAgICJsZW5ndGhzIjogWwogICAgICAgICAgICAgICAgICAi
-MCIsCiAgICAgICAgICAgICAgICAgICIxMDQiLAogICAgICAgICAgICAgICAgICAiMSIKICAgICAg
-ICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAiZGVsYXlzIjogWwogICAgICAgICAgICAgICAg
-ICAiMCIKICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAibWF4U3BsaXQiOiAiMCIK
-ICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAg
-ICAidHlwZSI6ICJmcmFnbWVudCIsCiAgICAgICAgICAgICAgInNldHRpbmdzIjogewogICAgICAg
-ICAgICAgICAgInBhY2tldHMiOiAiMS0xIiwKICAgICAgICAgICAgICAgICJsZW5ndGhzIjogWwog
-ICAgICAgICAgICAgICAgICAiMTE0IiwKICAgICAgICAgICAgICAgICAgIjEiCiAgICAgICAgICAg
-ICAgICBdLAogICAgICAgICAgICAgICAgImRlbGF5cyI6IFsKICAgICAgICAgICAgICAgICAgIjEi
-CiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgIm1heFNwbGl0IjogIjExIgogICAg
-ICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgXQogICAgICAgIH0sCiAgICAgICAg
-Im5ldHdvcmsiOiAid3MiLAogICAgICAgICJzZWN1cml0eSI6ICJ0bHMiLAogICAgICAgICJ0bHNT
-ZXR0aW5ncyI6IHsKICAgICAgICAgICJhbGxvd0luc2VjdXJlIjogZmFsc2UsCiAgICAgICAgICAi
-YWxwbiI6IFsKICAgICAgICAgICAgImh0dHAvMS4xIgogICAgICAgICAgXSwKICAgICAgICAgICJj
-aXBoZXJTdWl0ZXMiOiAiVExTX0VDREhFX0VDRFNBX1dJVEhfQUVTXzI1Nl9HQ01fU0hBMzg0OlRM
-U19FQ0RIRV9SU0FfV0lUSF9BRVNfMjU2X0dDTV9TSEEzODQ6VExTX0VDREhFX0VDRFNBX1dJVEhf
-QUVTXzEyOF9HQ01fU0hBMjU2OlRMU19FQ0RIRV9SU0FfV0lUSF9BRVNfMTI4X0dDTV9TSEEyNTY6
-VExTX0VDREhFX0VDRFNBX1dJVEhfQ0hBQ0hBMjBfUE9MWTEzMDVfU0hBMjU2OlRMU19FQ0RIRV9S
-U0FfV0lUSF9DSEFDSEEyMF9QT0xZMTMwNV9TSEEyNTY6VExTX0VDREhFX0VDRFNBX1dJVEhfQUVT
-XzI1Nl9DQkNfU0hBOlRMU19FQ0RIRV9SU0FfV0lUSF9BRVNfMjU2X0NCQ19TSEE6VExTX0VDREhF
-X0VDRFNBX1dJVEhfQUVTXzEyOF9DQkNfU0hBMjU2OlRMU19FQ0RIRV9SU0FfV0lUSF9BRVNfMTI4
-X0NCQ19TSEEyNTYiLAogICAgICAgICAgImZpbmdlcnByaW50IjogInVuc2FmZSIsCiAgICAgICAg
-ICAic2VydmVyTmFtZSI6ICJjZG4ubW9ydmFjLmlyIgogICAgICAgIH0sCiAgICAgICAgIndzU2V0
-dGluZ3MiOiB7CiAgICAgICAgICAiaG9zdCI6ICJjZG4ubW9ydmFjLmlyIiwKICAgICAgICAgICJw
-YXRoIjogIi8/ZWQ9MjU2MCIKICAgICAgICB9CiAgICAgIH0sCiAgICAgICJ0YWciOiAicHJveHkt
-cHJveHktMy1wLWZmIgogICAgfSwKICAgIHsKICAgICAgInByb3RvY29sIjogImZyZWVkb20iLAog
-ICAgICAidGFnIjogImRpcmVjdCIKICAgIH0sCiAgICB7CiAgICAgICJwcm90b2NvbCI6ICJibGFj
-a2hvbGUiLAogICAgICAidGFnIjogImJsb2NrIgogICAgfSwKICAgIHsKICAgICAgInByb3RvY29s
-IjogImRucyIsCiAgICAgICJzZXR0aW5ncyI6IHsKICAgICAgICAidXNlckxldmVsIjogMTIKICAg
-ICAgfSwKICAgICAgInRhZyI6ICJkbnMtb3V0IgogICAgfSwKICAgIHsKICAgICAgInByb3RvY29s
-IjogImZyZWVkb20iLAogICAgICAidGFnIjogImV4aXQtbm9kZSIKICAgIH0KICBdLAogICJwb2xp
-Y3kiOiB7CiAgICAibGV2ZWxzIjogewogICAgICAiMCI6IHsKICAgICAgICAiZG93bmxpbmtPbmx5
-IjogMCwKICAgICAgICAidXBsaW5rT25seSI6IDAKICAgICAgfSwKICAgICAgIjEyIjogewogICAg
-ICAgICJjb25uSWRsZSI6IDEyLAogICAgICAgICJkb3dubGlua09ubHkiOiAwLAogICAgICAgICJ1
-cGxpbmtPbmx5IjogMAogICAgICB9CiAgICB9CiAgfSwKICAicmVtYXJrcyI6ICLiiIYiLAogICJy
-b3V0aW5nIjogewogICAgImJhbGFuY2VycyI6IFsKICAgICAgewogICAgICAgICJmYWxsYmFja1Rh
-ZyI6ICJwcm94eS1wcm94eS0xLXAtbWFzcSIsCiAgICAgICAgInNlbGVjdG9yIjogWwogICAgICAg
-ICAgInByb3h5LXByb3h5LSIKICAgICAgICBdLAogICAgICAgICJzdHJhdGVneSI6IHsKICAgICAg
-ICAgICJ0eXBlIjogImxlYXN0UGluZyIKICAgICAgICB9LAogICAgICAgICJ0YWciOiAiYmFsYW5j
-ZXItbWFpbiIKICAgICAgfQogICAgXSwKICAgICJkb21haW5TdHJhdGVneSI6ICJBc0lzIiwKICAg
-ICJydWxlcyI6IFsKICAgICAgewogICAgICAgICJpbmJvdW5kVGFnIjogWwogICAgICAgICAgInNl
-Y29uZGFyeS1zb2NrcyIKICAgICAgICBdLAogICAgICAgICJvdXRib3VuZFRhZyI6ICJleGl0LW5v
-ZGUiLAogICAgICAgICJ0eXBlIjogImZpZWxkIgogICAgICB9LAogICAgICB7CiAgICAgICAgImlu
-Ym91bmRUYWciOiBbCiAgICAgICAgICAic29ja3MiCiAgICAgICAgXSwKICAgICAgICAib3V0Ym91
-bmRUYWciOiAiZG5zLW91dCIsCiAgICAgICAgInBvcnQiOiAiNTMiLAogICAgICAgICJ0eXBlIjog
-ImZpZWxkIgogICAgICB9LAogICAgICB7CiAgICAgICAgImluYm91bmRUYWciOiBbCiAgICAgICAg
-ICAiZG9tZXN0aWMtZG5zXzFfMCIsCiAgICAgICAgICAiZG9tZXN0aWMtZG5zXzJfMCIKICAgICAg
-ICBdLAogICAgICAgICJvdXRib3VuZFRhZyI6ICJkaXJlY3QiLAogICAgICAgICJ0eXBlIjogImZp
-ZWxkIgogICAgICB9LAogICAgICB7CiAgICAgICAgImJhbGFuY2VyVGFnIjogImJhbGFuY2VyLW1h
-aW4iLAogICAgICAgICJpbmJvdW5kVGFnIjogWwogICAgICAgICAgImRucy1tb2R1bGUiCiAgICAg
-ICAgXSwKICAgICAgICAidHlwZSI6ICJmaWVsZCIKICAgICAgfSwKICAgICAgewogICAgICAgICJv
-dXRib3VuZFRhZyI6ICJkaXJlY3QiLAogICAgICAgICJwcm90b2NvbCI6IFsKICAgICAgICAgICJi
-aXR0b3JyZW50IgogICAgICAgIF0sCiAgICAgICAgInR5cGUiOiAiZmllbGQiCiAgICAgIH0sCiAg
-ICAgIHsKICAgICAgICAibmV0d29yayI6ICJ1ZHAiLAogICAgICAgICJvdXRib3VuZFRhZyI6ICJi
-bG9jayIsCiAgICAgICAgInBvcnQiOiAiNDQzIiwKICAgICAgICAidHlwZSI6ICJmaWVsZCIKICAg
-ICAgfSwKICAgICAgewogICAgICAgICJkb21haW4iOiBbCiAgICAgICAgICAiZ2Vvc2l0ZTpjYXRl
-Z29yeS1hZHMtYWxsIgogICAgICAgIF0sCiAgICAgICAgIm91dGJvdW5kVGFnIjogImJsb2NrIiwK
-ICAgICAgICAidHlwZSI6ICJmaWVsZCIKICAgICAgfSwKICAgICAgewogICAgICAgICJpcCI6IFsK
-ICAgICAgICAgICJleHQ6Z2VvaXAtb25seS1jbi1wcml2YXRlLmRhdDpwcml2YXRlIgogICAgICAg
-IF0sCiAgICAgICAgIm91dGJvdW5kVGFnIjogImRpcmVjdCIsCiAgICAgICAgInR5cGUiOiAiZmll
-bGQiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAiZG9tYWluIjogWwogICAgICAgICAgImdlb3Np
-dGU6cHJpdmF0ZSIKICAgICAgICBdLAogICAgICAgICJvdXRib3VuZFRhZyI6ICJkaXJlY3QiLAog
-ICAgICAgICJ0eXBlIjogImZpZWxkIgogICAgICB9LAogICAgICB7CiAgICAgICAgImRvbWFpbiI6
-IFsKICAgICAgICAgICJkb21haW46aXIiLAogICAgICAgICAgImdlb3NpdGU6Y2F0ZWdvcnktaXIi
-CiAgICAgICAgXSwKICAgICAgICAib3V0Ym91bmRUYWciOiAiZGlyZWN0IiwKICAgICAgICAidHlw
-ZSI6ICJmaWVsZCIKICAgICAgfSwKICAgICAgewogICAgICAgICJpcCI6IFsKICAgICAgICAgICJn
-ZW9pcDppciIKICAgICAgICBdLAogICAgICAgICJvdXRib3VuZFRhZyI6ICJkaXJlY3QiLAogICAg
-ICAgICJ0eXBlIjogImZpZWxkIgogICAgICB9LAogICAgICB7CiAgICAgICAgImJhbGFuY2VyVGFn
-IjogImJhbGFuY2VyLW1haW4iLAogICAgICAgICJuZXR3b3JrIjogInRjcCx1ZHAiLAogICAgICAg
-ICJ0eXBlIjogImZpZWxkIgogICAgICB9CiAgICBdCiAgfQp9
+{
+  "aetherCommand": "aether --bind 127.0.0.1:10819 --protocol masque --scan balanced --ip v4 --masque-sni www.cloudflare.com --h2 --tls-ciphers ALL:!aPSK:!ECDSA+SHA1:!3DES --peer 162.159.198.15:443 --quick-reconnect --upstream socks5://127.0.0.1:10822",
+  "dns": {
+    "hosts": {
+      "geosite:category-ads-all": "127.0.0.1",
+      "domain:googleapis.cn": "googleapis.com",
+      "dns.alidns.com": [
+        "223.5.5.5",
+        "223.6.6.6",
+        "2400:3200::1",
+        "2400:3200:baba::1"
+      ],
+      "dns.sse.cisco.com": [
+        "208.67.220.220",
+        "208.67.222.222",
+        "2620:119:35::35",
+        "2620:119:53::53"
+      ],
+      "dns.umbrella.com": [
+        "208.67.220.220",
+        "208.67.222.222",
+        "2620:119:35::35",
+        "2620:119:53::53"
+      ],
+      "one.one.one.one": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ],
+      "1dot1dot1dot1.cloudflare-dns.com": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ],
+      "dns.cloudflare.com": [
+        "162.159.61.8",
+        "172.64.41.8",
+        "2a06:98c1:52::8",
+        "2803:f800:53::8"
+      ],
+      "cloudflare-dns.com": [
+        "104.16.248.249",
+        "104.16.249.249",
+        "2606:4700::6810:f8f9",
+        "2606:4700::6810:f9f9"
+      ],
+      "engage.cloudflareclient.com": [
+        "162.159.192.1",
+        "2606:4700:d0::a29f:c001"
+      ],
+      "doh.pub": [
+        "1.12.12.12",
+        "120.53.53.53"
+      ],
+      "dot.pub": [
+        "1.12.12.12",
+        "120.53.53.53"
+      ],
+      "dns.google": [
+        "8.8.8.8",
+        "8.8.4.4",
+        "2001:4860:4860::8888",
+        "2001:4860:4860::8844"
+      ],
+      "dns.quad9.net": [
+        "9.9.9.9",
+        "149.112.112.112",
+        "2620:fe::fe",
+        "2620:fe::9"
+      ],
+      "dns.sb": [
+        "45.11.45.11",
+        "185.222.222.222",
+        "2a09::",
+        "2a11::"
+      ],
+      "common.dot.dns.yandex.net": [
+        "77.88.8.8",
+        "77.88.8.1",
+        "2a02:6b8::feed:0ff",
+        "2a02:6b8:0:1::feed:0ff"
+      ]
+    },
+    "servers": [
+      {
+        "address": "fakedns",
+        "domains": [
+          "geosite:cn",
+          "geosite:private",
+          "domain:ir",
+          "geosite:category-ir"
+        ]
+      },
+      "https://8.8.8.8/dns-query",
+      {
+        "address": "localhost",
+        "domains": [
+          "geosite:private"
+        ],
+        "finalQuery": true,
+        "skipFallback": true,
+        "tag": "domestic-dns_1_0"
+      },
+      {
+        "address": "localhost",
+        "domains": [
+          "domain:ir",
+          "geosite:category-ir"
+        ],
+        "finalQuery": true,
+        "skipFallback": true,
+        "tag": "domestic-dns_2_0"
+      }
+    ],
+    "tag": "dns-module"
+  },
+  "inbounds": [
+    {
+      "listen": "127.0.0.1",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "quic",
+          "fakedns"
+        ],
+        "enabled": true,
+        "routeOnly": false
+      },
+      "tag": "socks"
+    },
+    {
+      "listen": "127.0.0.1",
+      "port": 10822,
+      "protocol": "mixed",
+      "settings": {
+        "udp": true
+      },
+      "tag": "secondary-socks"
+    }
+  ],
+  "log": {
+    "loglevel": "warning"
+  },
+  "observatory": {
+    "enableConcurrency": true,
+    "probeInterval": "3m",
+    "probeUrl": "https://www.gstatic.com/generate_204",
+    "subjectSelector": [
+      "proxy-proxy-"
+    ]
+  },
+  "outbounds": [
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "socks",
+      "settings": {
+        "address": "127.0.0.1",
+        "port": 10819
+      },
+      "streamSettings": {
+        "network": "tcp"
+      },
+      "tag": "proxy-proxy-1-p-masq",
+      "targetStrategy": "ForceIPv4v6"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "address": "104.24.91.28",
+        "encryption": "none",
+        "flow": "",
+        "id": "a4c7a25b-b8a8-4290-ab84-88e124e91d81",
+        "port": 443
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "echConfigList": "cloudflare-ech.com+udp://1.1.1.1",
+          "fingerprint": "chrome",
+          "serverName": "cdn.morvac.ir"
+        },
+        "wsSettings": {
+          "host": "cdn.morvac.ir",
+          "path": "/?ed=2560"
+        }
+      },
+      "tag": "proxy-proxy-2-p-ech"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "address": "104.24.91.28",
+        "encryption": "none",
+        "id": "a4c7a25b-b8a8-4290-ab84-88e124e91d81",
+        "port": 443
+      },
+      "streamSettings": {
+        "finalmask": {
+          "tcp": [
+            {
+              "type": "fragment",
+              "settings": {
+                "packets": "tlshello",
+                "lengths": [
+                  "0",
+                  "104",
+                  "1"
+                ],
+                "delays": [
+                  "0"
+                ],
+                "maxSplit": "0"
+              }
+            },
+            {
+              "type": "fragment",
+              "settings": {
+                "packets": "1-1",
+                "lengths": [
+                  "114",
+                  "1"
+                ],
+                "delays": [
+                  "1"
+                ],
+                "maxSplit": "11"
+              }
+            }
+          ]
+        },
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "cipherSuites": "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256",
+          "fingerprint": "unsafe",
+          "serverName": "cdn.morvac.ir"
+        },
+        "wsSettings": {
+          "host": "cdn.morvac.ir",
+          "path": "/?ed=2560"
+        }
+      },
+      "tag": "proxy-proxy-3-p-ff"
+    },
+    {
+      "protocol": "freedom",
+      "tag": "direct"
+    },
+    {
+      "protocol": "blackhole",
+      "tag": "block"
+    },
+    {
+      "protocol": "dns",
+      "settings": {
+        "userLevel": 12
+      },
+      "tag": "dns-out"
+    },
+    {
+      "protocol": "freedom",
+      "tag": "exit-node"
+    }
+  ],
+  "policy": {
+    "levels": {
+      "0": {
+        "downlinkOnly": 0,
+        "uplinkOnly": 0
+      },
+      "12": {
+        "connIdle": 12,
+        "downlinkOnly": 0,
+        "uplinkOnly": 0
+      }
+    }
+  },
+  "remarks": "∆",
+  "routing": {
+    "balancers": [
+      {
+        "fallbackTag": "proxy-proxy-1-p-masq",
+        "selector": [
+          "proxy-proxy-"
+        ],
+        "strategy": {
+          "type": "leastPing"
+        },
+        "tag": "balancer-main"
+      }
+    ],
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "inboundTag": [
+          "secondary-socks"
+        ],
+        "outboundTag": "exit-node",
+        "type": "field"
+      },
+      {
+        "inboundTag": [
+          "socks"
+        ],
+        "outboundTag": "dns-out",
+        "port": "53",
+        "type": "field"
+      },
+      {
+        "inboundTag": [
+          "domestic-dns_1_0",
+          "domestic-dns_2_0"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "balancerTag": "balancer-main",
+        "inboundTag": [
+          "dns-module"
+        ],
+        "type": "field"
+      },
+      {
+        "outboundTag": "direct",
+        "protocol": [
+          "bittorrent"
+        ],
+        "type": "field"
+      },
+      {
+        "network": "udp",
+        "outboundTag": "block",
+        "port": "443",
+        "type": "field"
+      },
+      {
+        "domain": [
+          "geosite:category-ads-all"
+        ],
+        "outboundTag": "block",
+        "type": "field"
+      },
+      {
+        "ip": [
+          "ext:geoip-only-cn-private.dat:private"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "domain": [
+          "geosite:private"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "domain": [
+          "domain:ir",
+          "geosite:category-ir"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "ip": [
+          "geoip:ir"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "balancerTag": "balancer-main",
+        "network": "tcp,udp",
+        "type": "field"
+      }
+    ]
+  }
+}
